@@ -22,6 +22,7 @@
 .cat1, .cat2, .cat3{
     padding: 10px 30px;
     border-radius: 10px;
+    box-shadow: 5px 6px 10px lightgray;
 }
 .cat1{
     background-color: orange;
@@ -35,4 +36,23 @@
 .gatagoris h1{
     color: white;
     
+}
+.card{
+    border: none;
+    border-radius: 11px;
+    box-shadow: 6px 5px 10px lightgray;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+#Contact {
+    height: 300px;
+
+}
+#Contact h6{
+    color: gray;
+}
+footer{
+    text-align: center;
 }
